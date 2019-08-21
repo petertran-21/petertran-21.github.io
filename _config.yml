@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : Peter Tran"
+title                    : Peter Tran
 title_separator          : "-"
 name                     : &name "Peter Tran"
 description              : &description "Student at University of Virginia"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Peter Tran"
-  avatar           : "profile.png"
+  avatar           : "profile2.png"
   bio              : "It me."
   location         : "Richmond VA"
   employer         :
